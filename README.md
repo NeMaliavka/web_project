@@ -1,1 +1,1 @@
-# train Django fraimwork
+# train Django framework
